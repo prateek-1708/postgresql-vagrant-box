@@ -1,0 +1,5 @@
+.vagrant/
+/*.iml
+.idea/
+.idea_modules/
+.DS_Store
